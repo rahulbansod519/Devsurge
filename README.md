@@ -11,3 +11,10 @@
   - Number of lines
   - Last modified date
 
+## 🔥 Git Activity Heatmap
+
+Analyze any repo and surface:
+- Commits per file
+- Contributors per file
+- Last commit date
+- 🔥 Volatility Score = commits × contributors
